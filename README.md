@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Humphrey
-- 👀 I’m interested in computer science and I'm still a student in the same field.
-- 🌱 I’m currently learning fullsatck development at freecodecamp
-- 💞️ I’m looking to collaborate on fullsatck development using javascript libraries.
+- 👋 Hi, I’m Humphrey Nyang'iye.
+- 👀 Tech nerd.
+- 🌱 React Dev
 - 📫 How to reach me email: bennyangiye202@gmail.com phone:+254797661925
 
 <!---
